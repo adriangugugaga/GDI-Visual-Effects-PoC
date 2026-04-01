@@ -1,4 +1,4 @@
-![Warning Banner](warnin.png)
+https://github.com/adriangugugaga/GDI-Visual-Effects-PoC/blob/main/warnin.png?raw=true
 
 This application (.exe) was made for educational purposes only.
 I strongly, strongly recommend not running this application on local hardware. 
